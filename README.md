@@ -1,1 +1,1 @@
-Esto es el proyecto quemadisimo de una pokedex, se uso react con typescript y reactbootstrap para estilar
+
